@@ -10,8 +10,8 @@ For this project we will use datasets from the kaggle.com website. Our source fo
 
 ## Transform
 
-Data gathered will need to be modifed/ cleaned up to show data for the target years only. The baby names dataset spans the years between 1880 and 2018 and will need to be shortened for our target years of 1994 to 2003. Additionally any id or other columns not needed will need to be removed. The data will be transformed to a SQL database to be created.
+Data gathered will need to be modifed/ cleaned up to show data for the target years only. The baby names dataset spans the years between 1880 and 2018 and will need to be shortened for our target years of 1994 to 2003. Additionally any id or other columns not needed will need to be removed. Since the datasets are distinctly different in nature with the year filed being the only common filed no joining will be needed; we will however for a portion of the project be taking the sum of all the births for each year.  
 
 ## Load
 
-The name of the database will be the baby_names_and_birthdays_db. We will have two tables named baby_names and birthdays respectively. 
+The data will be loaded into a SQL database to be created.The name of the database will be the baby_names_and_birthdays_db. We will have two tables named baby_names and birthdays respectively. 
