@@ -6,10 +6,12 @@ Our project will look at the most popular baby names and birthdays for people wi
 
 ## Extract
 
-
+For this project we will use datasets from the kaggle.com website. Our source for birth dates will come from the Births in U.S. 1994 to 2003 dataset here https://www.kaggle.com/adnanr94/births-in-us-1994-to-2003. The dataset for most popular names will come from the US Baby Names dataset here https://www.kaggle.com/kaggle/us-baby-names#NationalNames.csv. The data will be extracted using by reading the csv dataset files into python via pandas library dataframe objects.
 
 ## Transform
 
-
+Data gathered will need to be modifed/ cleaned up to show data for the target years only. The baby names dataset spans the years between 1880 and 2018 and will need to be shortened for our target years of 1994 to 2003. Additionally any id or other columns not needed will need to be removed. The data will be transformed to a SQL database to be created.
 
 ## Load
+
+The name of the database will be the baby_names_and_birthdays_db. We will have two tables named baby_names and birthdays respectively. 
