@@ -10,7 +10,7 @@ Our project will look at the most popular baby names and birthdays for people wi
 
 For this project we will use datasets from the kaggle.com website. Our source for birth dates will come from the Births in U.S. 1994 to 2003 dataset here https://www.kaggle.com/adnanr94/births-in-us-1994-to-2003. The dataset for most popular names will come from the US Baby Names dataset here https://www.kaggle.com/kaggle/us-baby-names#NationalNames.csv. The data will be extracted by reading the csv dataset files into python via pandas library dataframe objects.
 
-<center><img src="extract1.png" alt="Loading CSV" width="550"/></center>
+<center><img src="extract1.PNG" alt="Loading CSV" width="550"/></center>
 
 
 ## Transform
