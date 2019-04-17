@@ -17,16 +17,16 @@ For this project we will use datasets from the kaggle.com website. Our source fo
 
 Data gathered will need to be modifed/ cleaned up to show data for the target years only. The baby names dataset spans the years between 1880 and 2018 and will need to be shortened for our target years of 1994 to 2003 and any id columns will need to be removed. For the birthdays we also generated the field birthdates from the  day, month, and year provided. We also went through the data and removed any empty rows in the tables. Since the datasets are distinctly different in nature with the year filed being the only common filed no joining will be needed; we will however for a portion of the project be taking the sum of all the births for each year.  
 
-<center><img src="transform0.png" alt="Transforming" width="550"/></center>
-<center><img src="transform1.png" alt="Transforming" width="550"/></center>
-<center><img src="transform3.png" alt="Transforming" width="550"/></center>
+<center><img src="transform0.PNG" alt="Transforming" width="550"/></center>
+<center><img src="transform1.PNG" alt="Transforming" width="550"/></center>
+<center><img src="transform3.PNG" alt="Transforming" width="550"/></center>
 
 ## Load
 
 The data will be loaded into a SQL database for future use via MySQL Workbench. Code for database creation can be found in queries.sql included in the github repo. The name of the database will be the baby_names_and_birthdays_db. We will have two tables named baby_names and birthdays and will contain data from the years specified. 
 
-<center><img src="load1.png" alt="Transforming" width="550"/></center>
-<center><img src="load2.png" alt="Transforming" width="550"/></center>
-<center><img src="load3.png" alt="Transforming" width="550"/></center>
+<center><img src="load1.PNG" alt="Transforming" width="550"/></center>
+<center><img src="load2.PNG" alt="Transforming" width="550"/></center>
+<center><img src="load3.PNG" alt="Transforming" width="550"/></center>
 
 <center><img src="got.png" alt="Daenerys_Will_Reign" width="550"/></center>
