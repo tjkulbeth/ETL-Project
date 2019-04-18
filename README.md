@@ -1,6 +1,6 @@
 # ETL-Project
 
-<center><img src="babypic.png" alt="Transforming" width="550"/></center>
+<center><img src="babypic2.png" alt="Transforming" width="550"/></center>
 
 <br>
 ### Eric Staveley & Trevor Kulbeth
