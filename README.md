@@ -23,7 +23,9 @@ Data gathered will need to be modifed/ cleaned up to show data for the target ye
 
 ## Load
 
-The data will be loaded into a SQL database for future use via MySQL Workbench. Code for database creation can be found in queries.sql included in the github repo. The name of the database will be the baby_names_and_birthdays_db. We will have two tables named baby_names and birthdays and will contain data from the years specified. 
+The data will be loaded into a SQL database for future use via MySQL Workbench. Code for database creation can be found in queries.sql included in the github repo. The name of the database will be the baby_names_and_birthdays_db. We will have two tables named baby_names and birthdays and will contain data from the years specified.
+
+Created a guest user acount to have separate from root and learned about account management when adding a new account and configuring a second personal computer.
 
 <center><img src="load1.PNG" alt="Transforming" width="550"/></center>
 <center><img src="load2.PNG" alt="Transforming" width="550"/></center>
