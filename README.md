@@ -1,5 +1,8 @@
 # ETL-Project
 
+<center><img src="babypic.png" alt="Transforming" width="550"/></center>
+
+<br>
 ### Eric Staveley & Trevor Kulbeth
 
 ## Project Proposal
@@ -30,5 +33,8 @@ Created a guest user acount to have separate from root and learned about account
 <center><img src="load1.PNG" alt="Transforming" width="550"/></center>
 <center><img src="load2.PNG" alt="Transforming" width="550"/></center>
 <center><img src="load3.PNG" alt="Transforming" width="550"/></center>
+<br>
+<br>
+
 
 <center><img src="got.png" alt="Daenerys_Will_Reign" width="550"/></center>
