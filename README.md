@@ -3,6 +3,7 @@
 <center><img src="babypic2.png" alt="Transforming" width="550"/></center>
 
 <br>
+
 ## Eric Staveley & Trevor Kulbeth
 
 ## Project Proposal
